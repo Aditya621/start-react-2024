@@ -71,6 +71,7 @@ function App() {
       <ul>{listItems}</ul>
       <MyButton />
       <Counter />
+      <Counter />
       {/* <div className="card">
         <button
           onClick={() => {
